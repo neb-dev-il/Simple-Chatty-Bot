@@ -2,6 +2,8 @@
 
 A simple console chat bot will do wonders to guide you through the basics of coding. During this journey, you will also play some word and number games that you are going to implement on your own.
 
+https://user-images.githubusercontent.com/93135239/193874613-7067b3ca-4dcb-4877-a8b0-ef17a49e5d03.mp4
+
 ## Example
 
 The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
